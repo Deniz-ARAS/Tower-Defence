@@ -11,7 +11,7 @@ public class Enemy_Spawner : MonoBehaviour
     {
         if (enemyPrefab != null)
         {
-            Instantiate(EnemyPrefab, enemySpawnTransform);
+            Instantiate(EnemyPrefab, enemySpawnTransform, false);
         }
     }
 }

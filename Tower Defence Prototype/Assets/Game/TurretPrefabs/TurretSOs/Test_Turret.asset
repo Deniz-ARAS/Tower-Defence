@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TurretName: Test Turret
   TurretCost: 10
-  TurretFireRate: 1
+  TurretFireRate: 2
   TurretObject: {fileID: 1802440820485944165, guid: 9e22f9d50512db743ab01bd5812104a4, type: 3}
-  TurretProjectile: {fileID: 0}
+  TurretProjectile: {fileID: 528289645294547765, guid: bc519cdba85e66342924b254de926182, type: 3}

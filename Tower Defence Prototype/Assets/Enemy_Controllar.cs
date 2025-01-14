@@ -21,6 +21,7 @@ public class Enemy_Controllar : MonoBehaviour
         MoveEnemy();
     }
 
+
     public void TakeDamage(int damageAmount)
     {
         if (health > 0)
@@ -37,4 +38,5 @@ public class Enemy_Controllar : MonoBehaviour
     {
         transform.Translate(Vector3.forward * speed * Time.deltaTime);
     }
+
 }
