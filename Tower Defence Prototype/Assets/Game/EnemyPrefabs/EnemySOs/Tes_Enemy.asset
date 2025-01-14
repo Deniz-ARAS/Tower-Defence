@@ -16,5 +16,5 @@ MonoBehaviour:
   EnemyPowerRating: 1
   EnemySpeed: 1
   EnemyDamage: 1
-  EnemyHealth: 3
+  EnemyHealth: 4
   EnemyPrefab: {fileID: 436130352764040984, guid: b0aa7263e13d849468768fba5f55eddc, type: 3}

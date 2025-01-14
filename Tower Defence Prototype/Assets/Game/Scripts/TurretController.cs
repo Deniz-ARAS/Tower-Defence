@@ -1,3 +1,4 @@
+using DG.Tweening;
 using UnityEngine;
 
 public class TurretController : MonoBehaviour
@@ -13,6 +14,7 @@ public class TurretController : MonoBehaviour
 
     private void ShootBullet()
     {
+        transform.DOPunchScale(new Vector3(0.15f, 0.15f, 0.15f), 0.5f);
         Instantiate(TurretSO.TurretProjectile, shootingTransfrom.position, shootingTransfrom.rotation);
     }
 }
