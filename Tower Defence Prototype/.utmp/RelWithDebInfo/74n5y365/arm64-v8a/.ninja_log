@@ -1,0 +1,10 @@
+# ninja log v5
+27	1613	7585698465783421	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	53116708c113c92e
+1	1616	7585698465783421	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	f9953e8ca3e012d2
+44	1617	7585698465793430	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7b8312e7f0117fdc
+22	1617	7585698465839589	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	18ad7e4a3d660f06
+51	1642	7585698466155632	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	18c91c7898fd7eb7
+10	1682	7585698466571929	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	7bbedd44c64a1610
+33	1805	7585698467830601	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	381866ef593b3ed4
+15	1892	7585698468699602	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8bee9106b9cfc91a
+1892	1996	7585698469796742	C:/Users/PC/Documents/GitHub/Tower-Defence/Tower Defence Prototype/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/74n5y365/obj/arm64-v8a/libgame.so	b20476bebaa5dd9b
